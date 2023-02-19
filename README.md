@@ -26,7 +26,9 @@ Decision Tree
 Random Forest
 Gradient Boosting
 Support Vector Machine
+
 4. Constructing Accuracy Table :
 ![image](https://user-images.githubusercontent.com/87330531/219972369-c51aaf47-8e12-4a40-ac27-90a1d9c6590e.png)
+
 Conclusion
 As there are mutliple 100% accuracies in the table, it is unable to say one model. It depends on the sample taken using the technique. But the model which gives best result with every technique is Random Forest.
